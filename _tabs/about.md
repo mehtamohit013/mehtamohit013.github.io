@@ -8,9 +8,11 @@ order: 2
 {: .prompt-tip } -->
 
 
-Hi, I am currently a graduate student pursuing a master's degree in computer science at [New York University](https://www.nyu.edu/). I completed my bachelor's degree in Electrical Engineering from the [Indian Institute of Technology Indore](https://www.iiti.ac.in). 
+Hi, I am currently a graduate student pursuing a master's degree in computer science at [New York University](https://www.nyu.edu/), graduating 2024. I completed my bachelor's degree in Electrical Engineering from the [Indian Institute of Technology Indore](https://www.iiti.ac.in). 
 
 I am currently an active contributor to the [Ploomber](https://ploomber.io/) open-source suite and pursuing a Data Science internship at Ploomber for Summer 2023.
+
+**I am actively looking for Full time employment in the field of Data Science, Machine Learning and Data Engineering. If you have any openings, please feel free to contact me via email at [mehtamohit013@gmail.com](mailto:mehtamohit013@gmail.com)**
 
 
 ### Resume
