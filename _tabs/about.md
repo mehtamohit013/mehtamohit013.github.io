@@ -12,7 +12,7 @@ Hi, I am currently a graduate student pursuing a master's degree in computer sci
 
 I am currently an active contributor to the [Ploomber](https://ploomber.io/) open-source suite and pursuing a Data Science internship at Ploomber for Summer 2023.
 
-**I am actively looking for Full time employment in the field of Data Science, Machine Learning and Data Engineering. If you have any openings, please feel free to contact me via email at [mehtamohit013@gmail.com](mailto:mehtamohit013@gmail.com)**
+**I am actively looking for full-time employment starting in May 2024 in the fields of Data Science, Machine Learning, and Data Engineering. If you have any openings, please feel free to contact me via email at [mehtamohit013@gmail.com](mailto:mehtamohit013@gmail.com)**
 
 
 ### Resume
